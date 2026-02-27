@@ -209,27 +209,6 @@ for i, hour in enumerate(hours):
 
 st.divider()
 
-# ---------------- NLP EVOLUTION ----------------
-st.header("Evolution of NLP")
-
-def nlp_evolution():
-    dot = Digraph()
-    dot.attr(rankdir="LR")
-
-    dot.node("bow", "Bag of Words\nTF-IDF", shape="box")
-    dot.node("w2v", "Word2Vec\nEmbeddings", shape="box")
-    dot.node("bert", "Transformers\nBERT", shape="box")
-    dot.node("fine", "Fine-Tuning", shape="box")
-
-    dot.edge("bow", "w2v")
-    dot.edge("w2v", "bert")
-    dot.edge("bert", "fine")
-
-    return dot
-
-st.graphviz_chart(nlp_evolution())
-
-st.divider()
 
 # ---------------- DEMO APPLICATIONS ----------------
 st.header("Interactive Demos")
