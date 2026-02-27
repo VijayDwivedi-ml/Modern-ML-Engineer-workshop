@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+matplotlib
+graphviz
+numpy
+plotly
+scikit-learn
+datasets
+requests
