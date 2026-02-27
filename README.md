@@ -193,16 +193,6 @@ pages/8_Classification_Demo.py
 
 ---
 
-## Main Page
-
-The main page provides an overview of the complete ML pipeline.
-
-File:
-
-```
-00_main.py
-```
-
 Pipeline:
 
 ```
@@ -272,26 +262,6 @@ plotly
 graphviz
 requests
 ```
-
----
-
-## Deployment on Streamlit Cloud
-
-1 Go to:
-
-```
-https://streamlit.io/cloud
-```
-
-2 Connect GitHub repository
-
-3 Select:
-
-```
-00_main.py
-```
-
-4 Deploy
 
 ---
 
