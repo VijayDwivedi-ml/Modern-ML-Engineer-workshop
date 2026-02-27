@@ -570,5 +570,5 @@ with st.expander("Workshop Summary and Key Takeaways"):
     
     - [Scikit-learn Documentation](https://scikit-learn.org)
     - [Digits Dataset Source](https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits)
-    - [Workshop Repository](https://github.com/your-repo)
+    - [Workshop Repository](https://github.com/VijayDwivedi-ml/Modern-ML-Engineer-workshop/tree/main)
     """)
