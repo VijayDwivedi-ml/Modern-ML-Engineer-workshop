@@ -1,13 +1,3 @@
-Here is a clean, professional **README.md** you can directly put into your GitHub repository. It is written for a workshop setting and designed to work well with **Streamlit Cloud deployment**.
-
-You can copy this into a file named:
-
-```
-README.md
-```
-
----
-
 # The Modern ML Engineer: From Data to Deployment
 
 **Instructor:** Vijay Dwivedi
@@ -401,12 +391,3 @@ Workshop Instructor
 Educational Use
 
 ---
-
-If you'd like, I can also create:
-
-* `requirements.txt`
-* `.streamlit/config.toml`
-* GitHub repo structure
-* Deployment checklist
-
-Those usually make Streamlit deployment much smoother.
