@@ -487,5 +487,5 @@ with st.expander("Workshop Summary and Key Takeaways"):
     
     - [Scikit-learn Documentation](https://scikit-learn.org)
     - [MLOps Fundamentals](https://ml-ops.org)
-    - [Workshop Repository](https://github.com/your-repo)
+    - [Workshop Repository](https://github.com/VijayDwivedi-ml/Modern-ML-Engineer-workshop/tree/main)
     """)
